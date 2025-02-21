@@ -4,7 +4,7 @@ draft = false
 image = "oasis-174197_640.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](oasis-174197_640.jpg)
 
 ## My name is Nina
 
