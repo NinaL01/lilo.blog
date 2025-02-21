@@ -1,12 +1,12 @@
 +++
 title = "About me"
 draft = false
+image = "oasis-174197_640.jpg"
 description = ""
-image = "/img/default-author.jpg"
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## My name is Nina
 
 mail@example.org
 
