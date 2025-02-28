@@ -35,6 +35,8 @@ In gewisser Weise ja. Einerseits wurde meine Identität stärker, andererseits h
 
 Es gibt eine gewisse Kontinuität – man kann sehen, dass Identität von Generation zu Generation weitergegeben wird. Gleichzeitig gibt es aber auch viele Dinge, die sich verändern. Jede Generation bringt neue Erfahrungen mit sich, die ihre Identität prägen.
 
+> "Identität ist nicht festgelegt; sie entwickelt sich im Laufe der Zeit." 
+
 **Denken Sie, dass jüngere Generationen Identität anders erleben als Ihre oder frühere Generationen?**
 
 Ja, das denke ich – und ich hoffe es auch. Jede neue Generation sollte einen Schritt nach vorne machen, um die Welt zu einem besseren Ort zu machen und weniger Probleme mit der eigenen oder der Identität anderer zu haben. Heute ist die Welt durch das Internet und soziale Medien viel vernetzter. Das verändert den Blick auf Identität grundlegend, im Vergleich zu meiner Generation oder der meiner Eltern.
