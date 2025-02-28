@@ -5,6 +5,7 @@ draft = false
 pinned = false
 tags = []
 image = "istockphoto-1082440228-612x612.jpg"
+description = "Von zwei Kulturen geprägt zu sein bedeutet, sich selbst immer wieder neu zu definieren."
 +++
 Mentor Latifi ist Diplomat und derzeit Botschafter des Kosovo in der Schweiz und Liechtenstein. Geboren 1974 im Kosovo, emigrierte er 1988 mit seiner Familie in die Schweiz. 
 
