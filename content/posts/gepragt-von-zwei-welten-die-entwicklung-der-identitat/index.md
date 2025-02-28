@@ -14,7 +14,6 @@ Mentor Latifi ist Diplomat und derzeit Botschafter des Kosovo in der Schweiz und
 Trotz Herausforderungen erhielt er die Möglichkeit, das Gymnasium in Zofingen zu absolvieren, bevor er an der Universität Basel studierte. 2005 kehrte er nach seiner Heirat in den Kosovo zurück. Zwei Jahrzehnte später vertritt er sein Heimatland als Botschafter in jenem Land, das ihm einst selbst Chancen eröffnete.
 
 `{{<box>}}`
-
 * Spricht 5 Sprachen.
 * Früher im Pharmageschäft tätig.`{{</box>}}`
 
